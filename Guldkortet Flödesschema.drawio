@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T13:27:21.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AGGwTZ5sQ-hppP5INlx7" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T13:28:15.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MSjkOvBWo3NNus3_VqwI" version="20.8.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="UFKldvnoBP6Q02X7NCzK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-9" target="UFKldvnoBP6Q02X7NCzK-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFKldvnoBP6Q02X7NCzK-9" value="Ladda fil med Kundlista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UFKldvnoBP6Q02X7NCzK-9" value="Ladda fil med kundlista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="400" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UFKldvnoBP6Q02X7NCzK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-12" target="UFKldvnoBP6Q02X7NCzK-13">
@@ -46,13 +46,13 @@
         <mxCell id="UFKldvnoBP6Q02X7NCzK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-12" target="UFKldvnoBP6Q02X7NCzK-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFKldvnoBP6Q02X7NCzK-12" value="Finns första strängen i Kundlista?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UFKldvnoBP6Q02X7NCzK-12" value="Finns första strängen i kundlista?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="470" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UFKldvnoBP6Q02X7NCzK-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-13" target="UFKldvnoBP6Q02X7NCzK-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFKldvnoBP6Q02X7NCzK-13" value="Separera strängarna i Kundlistan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UFKldvnoBP6Q02X7NCzK-13" value="Separera strängarna i kundlistan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="620" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UFKldvnoBP6Q02X7NCzK-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-14" target="UFKldvnoBP6Q02X7NCzK-15">
@@ -64,7 +64,7 @@
         <mxCell id="UFKldvnoBP6Q02X7NCzK-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-15" target="UFKldvnoBP6Q02X7NCzK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFKldvnoBP6Q02X7NCzK-15" value="Ladda fil med Kortlista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UFKldvnoBP6Q02X7NCzK-15" value="Ladda fil med kortlista" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="780" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UFKldvnoBP6Q02X7NCzK-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-16" target="UFKldvnoBP6Q02X7NCzK-23">
@@ -73,13 +73,13 @@
         <mxCell id="UFKldvnoBP6Q02X7NCzK-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-16" target="UFKldvnoBP6Q02X7NCzK-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFKldvnoBP6Q02X7NCzK-16" value="Finns andra strängen i Kortlistan?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UFKldvnoBP6Q02X7NCzK-16" value="Finns andra strängen i kortlistan?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="860" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UFKldvnoBP6Q02X7NCzK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-23" target="UFKldvnoBP6Q02X7NCzK-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFKldvnoBP6Q02X7NCzK-23" value="Separera strängarna i Kortlistan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UFKldvnoBP6Q02X7NCzK-23" value="Separera strängarna i kortlistan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="1000" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UFKldvnoBP6Q02X7NCzK-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UFKldvnoBP6Q02X7NCzK-25" target="UFKldvnoBP6Q02X7NCzK-27">
