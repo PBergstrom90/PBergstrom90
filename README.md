@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PBergstrom90
-- 👀 I’m interested in starting to Code.
-- 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on anything to learn.
+- 👀 I’m studying software development.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on anything new to learn!
 - 📫 How to reach me at Pontusbergstrom90@gmail.com
 
 <!---
