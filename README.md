@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PBergstrom90
-- 👀 I’m studying software development.
+- 👀 I’m studying software development, for embedded programming.
 - 🌱 I’m currently learning Python, Java, C, C++ and C#.
 - 📫 How to reach me: Pontusbergstrom90@gmail.com
 
