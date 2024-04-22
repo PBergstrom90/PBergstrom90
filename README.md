@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PBergstrom90
-- 👀 I’m studying software development, for embedded programming.
-- 🌱 I’m currently learning Python, Java, C, C++ and C#.
+- 👀 I’m studying Software Development for Embedded systems.
+- 🌱 I’m currently learning to work with C & C++. I also have some experience working with Java, Python and C#.
 - 📫 How to reach me: Pontusbergstrom90@gmail.com
 
 <!---
