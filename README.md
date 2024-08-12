@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me:
 
-- I’m studying Software Development for Embedded systems in Stockholm, Sweden.
+- I’m studying Software Development for Embedded systems in Stockholm, Sweden at: <a href="https://nackademin.se/">Nackademin</a>.
 
 - I'm currently looking for an internship, starting from January 2025 until May 2025.
 
