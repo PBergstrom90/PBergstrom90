@@ -1,9 +1,43 @@
-- 👋 Hi, I’m @PBergstrom90
-- 👀 I’m studying Software Development for Embedded systems.
-- 🌱 I’m currently learning to work with C & C++. I also have some experience working with Java, Python and C#.
-- 📫 How to reach me: Pontusbergstrom90@gmail.com
+<div>
 
-<!---
-PBergstrom90/PBergstrom90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+<h1>👋 Hi, I’m Pontus Bergström
+</h1>
+</div>
+
+
+### :man_technologist: About Me:
+
+- I’m studying Software Development for Embedded systems in Stockholm, Sweden.
+
+- I'm currently looking for an internship, starting from January 2025 until May 2025.
+
+---
+
+### :hammer_and_wrench: Languages and Tools : 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBergstrom90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :mailbox: Reach me: 
+
+<a href="mailto:Pontusbergstrom90@gmail.com">
+  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" title="mail" alt="Mail" width="40" height="40"/>
+</a>
+
+  <a href="https://www.linkedin.com/in/pontus-bergstrom/">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  </div>
