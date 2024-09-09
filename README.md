@@ -1,10 +1,9 @@
 <div>
-
+<center>
 <div>
 <h1>👋 Hi, I’m Pontus Bergström
 </h1>
 </div>
-
 
 ### :man_technologist: About Me:
 
@@ -26,7 +25,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBergstrom90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBergstrom90&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -39,5 +38,5 @@
   <a href="https://www.linkedin.com/in/pontus-bergstrom/">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
-
-  </div>
+</center>
+</div>
