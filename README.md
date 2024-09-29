@@ -9,8 +9,6 @@
 
 - I’m studying Software Development for Embedded systems in Stockholm, Sweden at: <a href="https://nackademin.se/utbildningar/mjukvaruutvecklare-inbyggda-system-och-iot/">Nackademin</a>.
 
-- I'm currently looking for an internship, starting from January 2025 until May 2025.
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
