@@ -7,8 +7,8 @@
 
 ### :man_technologist: About Me:
 
-- I’m studying Software Development for Embedded systems in Stockholm, Sweden at: <a href="https://nackademin.se/utbildningar/mjukvaruutvecklare-inbyggda-system-och-iot/">Nackademin</a>.
-- I am currently completing my internship at <a href="https://www.induo.com/">Induo AB</a>.
+- I recently completed my studies in Software Development for Embedded systems in Stockholm, Sweden at: <a href="https://nackademin.se/utbildningar/mjukvaruutvecklare-inbyggda-system-och-iot/">Nackademin</a>.
+- I am currently looking for new opportunities and collaborations — feel free to connect!
 
 ---
 
