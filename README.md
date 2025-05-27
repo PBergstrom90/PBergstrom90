@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me:
 
-- I recently completed my studies in Software Development for Embedded systems in Stockholm, Sweden at: <a href="https://nackademin.se/utbildningar/mjukvaruutvecklare-inbyggda-system-och-iot/">Nackademin</a>.
+- I recently completed my studies in Software Development for Embedded Systems and IoT in Stockholm, Sweden at: <a href="https://nackademin.se/utbildningar/mjukvaruutvecklare-inbyggda-system-och-iot/">Nackademin</a>.
 - I am currently looking for new opportunities and collaborations — feel free to connect!
 
 ---
