@@ -4,8 +4,6 @@
 <h1>👋 Hi, I’m Pontus Bergström
 </h1>
 </div>
----
-
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -19,11 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBergstrom90&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
----
 </center>
 </div>
