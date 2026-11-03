@@ -4,12 +4,6 @@
 <h1>👋 Hi, I’m Pontus Bergström
 </h1>
 </div>
-
-### :man_technologist: About Me:
-
-- I recently completed my studies in Software Development for Embedded Systems and IoT in Stockholm, Sweden at: <a href="https://nackademin.se/utbildningar/mjukvaruutvecklare-inbyggda-system-och-iot/">Nackademin</a>.
-- I am currently looking for new opportunities and collaborations — feel free to connect!
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
@@ -31,15 +25,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PBergstrom90&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :mailbox: Reach me: 
-
-<a href="mailto:Pontusbergstrom90@gmail.com">
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/email.svg" title="mail" alt="Mail" width="40" height="40"/>
-</a>
-
-  <a href="https://www.linkedin.com/in/pontus-bergstrom/">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
 </center>
 </div>
